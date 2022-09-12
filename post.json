@@ -1,0 +1,67 @@
+{
+    "post": [
+        {
+            "id-post": "1",
+            "image": "./source/images/post.jpg",
+            "name": "Where To Buy The Air Jordan 3 “Fire Red” (2022)",
+            "time": "September 5, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "2",
+            "image": "./source/images/post1.jpg",
+            "name": "Air Jordan 1 Retro High OG “Washed Black” Set For June 10th, 2023 Release",
+            "time": "September 11, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "3",
+            "image": "./source/images/post2.jpg",
+            "name": "Air Jordan Retro Summer 2023 Preview",
+            "time": "August 8, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "4",
+            "image": "./source/images/post3.jpg",
+            "name": "Navy And Teal Color In The Nike Dunk Low",
+            "time": "September 11, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "5",
+            "image": "./source/images/post4.jpg",
+            "name": "A Medley Of Earth Toned Textiles Graces The Nike Air Max 90",
+            "time": "September 11, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "6",
+            "image": "./source/images/post5.jpg",
+            "name": "Air Jordan 14 “Laney” Releasing May 27th, 2023",
+            "time": "September 11, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "7",
+            "image": "./source/images/post6.jpg",
+            "name": "Air Jordan 6 “Toro Bravo” Releasing June 2023",
+            "time": "September 11, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "8",
+            "image": "./source/images/post7.jpg",
+            "name": "Air Jordan 3 “Hide N Sneak” Releasing June 2023 For Children’s Day",
+            "time": "September 11, 2022",
+            "description": ""
+        },
+        {
+            "id-post": "9",
+            "image": "./source/images/post8.jpg",
+            "name": "ASICS Adds Patent Leather To The GEL-LYTE III “Pearl Pack”",
+            "time": "September 11, 2022",
+            "description": ""
+        }   
+    ]
+}

@@ -6,7 +6,10 @@
             "image": "./source/images/nike.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 150
+            "price": 150,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 2,
@@ -14,7 +17,10 @@
             "image": "./source/images/nike0.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 150
+            "price": 150,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 3,
@@ -22,7 +28,10 @@
             "image": "./source/images/nike1.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 105
+            "price": 105,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 4,
@@ -30,7 +39,10 @@
             "image": "./source/images/nike2.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 110
+            "price": 110,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 5,
@@ -38,7 +50,10 @@
             "image": "./source/images/nike3.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 210
+            "price": 210,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 6,
@@ -46,7 +61,10 @@
             "image": "./source/images/nike4.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 210
+            "price": 210,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 7,
@@ -54,7 +72,10 @@
             "image": "./source/images/nike5.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 210
+            "price": 210,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 8,
@@ -62,7 +83,10 @@
             "image": "./source/images/nike6.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 140
+            "price": 140,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 9,
@@ -70,7 +94,10 @@
             "image": "./source/images/nike7.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 125
+            "price": 125,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 10,
@@ -78,7 +105,10 @@
             "image": "./source/images/nike8.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 165
+            "price": 165,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 11,
@@ -86,95 +116,131 @@
             "image": "./source/images/nike9.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 185
+            "price": 185,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 12,
-            "name": "",
+            "name": "Nike ZoomX Invincible Run Flyknit 2",
             "image": "./source/images/nike10.jpg",
             "brand": "nike",
             "gender": "man",
-            "price": 180
+            "price": 180,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 13,
             "name": "Nike Free Metcon 4",
             "image": "./source/images/nike11.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 120
+            "gender": "women",
+            "price": 120,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 14,
             "name": "Nike Metcon 8",
             "image": "./source/images/nike12.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 130
+            "gender": "women",
+            "price": 130,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 15,
             "name": "Nike Air Zoom Pegasus 39",
             "image": "./source/images/nike13.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 130
+            "gender": "women",
+            "price": 130,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 16,
             "name": "Nike Air Max 270",
             "image": "./source/images/nike14.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 160
+            "gender": "women",
+            "price": 160,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 17,
             "name": "Nike Air Max 97",
             "image": "./source/images/nike15.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 140.97
+            "gender": "women",
+            "price": 140.97,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 18,
             "name": "Nike Air VaporMax 2021 Flyknit",
             "image": "./source/images/nike16.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 210
+            "gender": "women",
+            "price": 210,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 19,
             "name": "Nike React Ifinity Run Flyknit 3",
             "image": "./source/images/nike17.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 160
+            "gender": "women",
+            "price": 160,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 20,
             "name": "Nike Air Force 1 Shadow",
             "image": "./source/images/nike18.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 140
+            "gender": "women",
+            "price": 140,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 21,
             "name": "Nike Air Zoom SuperRep3",
             "image": "./source/images/nike19.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 120
+            "gender": "women",
+            "price": 120,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 22,
             "name": "Nike Air Force 1 Fontanka",
             "image": "./source/images/nike20.jpg",
             "brand": "nike",
-            "gender": "woman",
-            "price": 130
+            "gender": "women",
+            "price": 130,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 23,
@@ -182,7 +248,10 @@
             "image": "./source/images/nike21.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 120
+            "price": 120,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 24,
@@ -190,7 +259,10 @@
             "image": "./source/images/nike22.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 90
+            "price": 90,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 25,
@@ -198,7 +270,10 @@
             "image": "./source/images/nike23.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 50
+            "price": 50,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 26,
@@ -206,7 +281,10 @@
             "image": "./source/images/nike24.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 105
+            "price": 105,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 27,
@@ -214,15 +292,21 @@
             "image": "./source/images/nike25.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 105
+            "price": 105,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "Giannis Immortality 2",
             "image": "./source/images/nike26.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 65
+            "price": 65,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 29,
@@ -230,7 +314,10 @@
             "image": "./source/images/nike27.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 100
+            "price": 100,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 30,
@@ -238,7 +325,10 @@
             "image": "./source/images/nike28.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 73
+            "price": 73,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 31,
@@ -246,7 +336,10 @@
             "image": "./source/images/nike29.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 100
+            "price": 100,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         },
         {
             "id": 32,
@@ -254,7 +347,131 @@
             "image": "./source/images/nike30.jpg",
             "brand": "nike",
             "gender": "kid",
-            "price": 135
+            "price": 135,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 33,
+            "name": "Runfalcon 2.0 TR Shoes",
+            "image": "./source/images/adidas.jpg",
+            "brand": "adidas",
+            "gender": "man",
+            "price": 65,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 34,
+            "name": "Oznova Shoes",
+            "image": "./source/images/adidas1.jpg",
+            "brand": "adidas",
+            "gender": "man",
+            "price": 72,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 35,
+            "name": "Stan smith shoes",
+            "image": "./source/images/adidas2.jpg",
+            "brand": "adidas",
+            "gender": "man",
+            "price": 100,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 36,
+            "name": "Terex Trailmaker Hiking Shoes ",
+            "image": "./source/images/adidas3.jpg",
+            "brand": "adidas",
+            "gender": "man",
+            "price": 88 ,
+            "size": [36, 37, 38, 39, 40, 41, 42, 43, 44],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 37,
+            "name": "Forum Mid Shoes",
+            "image": "./source/images/adidas4.jpg",
+            "brand": "adidas",
+            "gender": "women",
+            "price": 120,
+            "size": [36, 37, 38, 39, 40, 41, 42],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 38,
+            "name": "Forum Bonega Shoes",
+            "image": "./source/images/adidas5.jpg",
+            "brand": "adidas",
+            "gender": "women",
+            "price": 120,
+            "size": [36, 37, 38, 39, 40, 41, 42],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 39,
+            "name": "Adistar Shoes",
+            "image": "./source/images/adidas6.jpg",
+            "brand": "adidas",
+            "gender": "women",
+            "price": 130,
+            "size": [36, 37, 38, 39, 40, 41, 42],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 40,
+            "name": "4DFWD Pulse Shoes",
+            "image": "./source/images/adidas7.jpg",
+            "brand": "adidas",
+            "gender": "women",
+            "price": 96,
+            "size": [36, 37, 38, 39, 40, 41, 42],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 41,
+            "name": "adidas x LEGO Sport Pro Shoes",
+            "image": "./source/images/adidas8.jpg",
+            "brand": "adidas",
+            "gender": "kid",
+            "price": 55,
+            "size": [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 42,
+            "name": "MND_R1 Shoes",
+            "image": "./source/images/adidas9.jpg",
+            "brand": "adidas",
+            "gender": "kid",
+            "price": 55,
+            "size": [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
+        },
+        {
+            "id": 43,
+            "name": "Minnie Mount Grant Court Shoes",
+            "image": "./source/images/adidas10.jpg",
+            "brand": "adidas",
+            "gender": "kid",
+            "price": 45,
+            "size": [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+            "resale": "",
+            "description": "mô tả chi tiết sản phầm demo . . ."
         }
     ]
 }
